@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BedenKitleEndeks</string>
+    <string name="weight_text">Kilonuzu giriniz</string>
+    <string name="height_hint">Boyunuzu giriniz</string>
+    <string name="female">Kadın</string>
+    <string name="male">Erkek</string>
+    <string name="calculate">Hesapla</string>
+</resources>
